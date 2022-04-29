@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashkumarnokha&label=Profile%20views&color=0e75b6&style=flat" alt="vikashkumarnokha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikashkumarnokha" alt="vikashkumarnokha" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikashkumarnokha" alt="vikashkumarnokha" /></a> </p> -->
 
 - 🔭 I’m currently working on [blinkit website](https://blinkit.netlify.app/)
 
