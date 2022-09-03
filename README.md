@@ -1,4 +1,4 @@
-![How-to-Master-Mern-Stack-Development]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6DyUDlW4OOwyeOZ8YMOKfDA46aUqXDN6snw&usqp=CAU](https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png))
+![How-to-Master-Mern-Stack-Development](https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png)
 
 <h1 align="center">Hi 👋, I'm Vikash kumar</h1>
 <h3 align="center">A passionate Web developer. Love to build beautiful websites with latest tech available😄</h3>
